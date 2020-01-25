@@ -2,10 +2,25 @@
 
 #### Day 1: January 24. Friday
 
-**Today's Progress:** Today I worked with Spring and created a DAO, also show the data obtained on the front with Angula.
+**Today's Progress:** Today I worked with Spring and created a DAO, also show the data obtained on the front with Angular.
 
 **Links to work:**
 
 https://github.com/luisdev97/Clients-CRUD-Spring-Backend
 
 https://github.com/luisdev97/Clients-CRUD-Angular-Front
+
+
+
+[Patients React](https://github.com/alvarotorresc/pacients-hooks-react)
+
+#### Day 2: January 25. Saturday
+
+**Today's Progress:** Today I worked with Angular and I saw the the jsconf talk:
+Immutable data structures for functional JS 
+
+**Thoughts:**  In love with the talk I saw today
+
+**Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
+
+**Link to talk:** [Js talk](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
