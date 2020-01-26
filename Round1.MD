@@ -12,7 +12,6 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 
 
 
-[Patients React](https://github.com/alvarotorresc/pacients-hooks-react)
 
 #### Day 2: January 25. Saturday
 
@@ -24,3 +23,15 @@ Immutable data structures for functional JS
 **Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
 
 **Link to talk:** [Js talk](https://www.youtube.com/watch?v=Wo0qiGPSV-s)
+
+
+
+#### Day 3: January 26. Sunday
+
+**Today's Progress:** Today I worked with Angular and I read about Java streams
+
+**Thoughts:**  I want to improve my functional programming skills
+
+**Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
+
+**Link to article:** [Java 8 Stream findFirst() vs. findAny()](https://www.baeldung.com/java-stream-findfirst-vs-findany)
