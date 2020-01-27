@@ -35,3 +35,8 @@ Immutable data structures for functional JS
 **Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
 
 **Link to article:** [Java 8 Stream findFirst() vs. findAny()](https://www.baeldung.com/java-stream-findfirst-vs-findany)
+
+#### Day 4: January 27. Monday
+**Today's Progress:** Today I trained typescript at exercism.io
+
+**Thoughts:** Im upgrading my TS level by doing execersices at these web
