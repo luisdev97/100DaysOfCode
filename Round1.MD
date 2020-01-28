@@ -40,3 +40,16 @@ Immutable data structures for functional JS
 **Today's Progress:** Today I trained typescript at exercism.io
 
 **Thoughts:** Im upgrading my TS level by doing execersices at these web
+
+
+#### Day 5: January 28. Tuesday
+**Today's Progress:** Today I worked with Angular and Spring Framework
+
+**Thoughts:** eager to get back to react and with several open source projects in mind
+
+**Links to work:**
+
+https://github.com/luisdev97/Clients-CRUD-Spring-Backend
+
+https://github.com/luisdev97/Clients-CRUD-Angular-Front
+
