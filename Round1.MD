@@ -53,3 +53,16 @@ https://github.com/luisdev97/Clients-CRUD-Spring-Backend
 
 https://github.com/luisdev97/Clients-CRUD-Angular-Front
 
+
+
+
+
+#### Day 6: January 28. Wednesday
+**Today's Progress:** Today I worked improving my algorithm using TypeScript
+
+**Thoughts:**  Sometimes it's good to review the basics
+
+
+
+
+
