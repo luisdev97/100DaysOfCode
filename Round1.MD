@@ -54,17 +54,26 @@ https://github.com/luisdev97/Clients-CRUD-Spring-Backend
 https://github.com/luisdev97/Clients-CRUD-Angular-Front
 
 
-#### Day 6: January 28. Wednesday
+#### Day 6: January 29. Wednesday
 **Today's Progress:** Today I worked improving my algorithm using TypeScript
 
 **Thoughts:**  Sometimes it's good to review the basics
 
 
-#### Day 7: January 26. Thursday
+#### Day 7: January 30. Thursday
 
 **Today's Progress:** Today I worked with Angular
 
 **Thoughts:** Eager to start something new
+
+**Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
+
+
+
+#### Day 8: January 31. Friday
+
+**Today's Progress:** Today I worked with Angular and Angular Material
+**Thoughts:** One more day to finish the project
 
 **Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
 
