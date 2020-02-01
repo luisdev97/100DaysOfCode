@@ -78,6 +78,14 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 **Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
 
 
+#### Day 9: February 1. Saturday
+
+**Today's Progress:** Today I worked with Angular and Spring framework
+**Thoughts:** Only the last details remain and the project will be finished
+
+**Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
+
+
 
 
 
