@@ -86,6 +86,15 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 **Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
 
 
+#### Day 10: February 2. Sunday
+
+**Today's Progress:** Today I finished my freeCodeCamp exercises and obtained my certificate in JavaScript Algorithms and Data Structures
+
+**Link to certificate:** [freeCodeCamp certificate](https://www.freecodecamp.org/certification/fcc4d5c1a3d-7087-4948-ab29-574328d645cc/javascript-algorithms-and-data-structures)
+
+
+
+
 
 
 
