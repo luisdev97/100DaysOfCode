@@ -94,6 +94,15 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 
 
 
+#### Day 11: February 3. Monday
+
+**Today's Progress:** Today I worked with angular but I couldn't not advance due to an error that I couldn't solve
+**Thoughts:** Although it isn't pleasant to end the day with an error, I must remain encouraged
+
+
+**Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
+
+
 
 
 
