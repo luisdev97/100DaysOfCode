@@ -73,6 +73,7 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 #### Day 8: January 31. Friday
 
 **Today's Progress:** Today I worked with Angular and Angular Material
+
 **Thoughts:** One more day to finish the project
 
 **Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
@@ -81,6 +82,7 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 #### Day 9: February 1. Saturday
 
 **Today's Progress:** Today I worked with Angular and Spring framework
+
 **Thoughts:** Only the last details remain and the project will be finished
 
 **Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
@@ -97,11 +99,23 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 #### Day 11: February 3. Monday
 
 **Today's Progress:** Today I worked with angular but I couldn't not advance due to an error that I couldn't solve
-**Thoughts:** Although it isn't pleasant to end the day with an error, I must remain encouraged
 
+**Thoughts:** Although it isn't pleasant to end the day with an error, I must remain encouraged
 
 **Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
 
+
+#### Day 12: February 4. Tuesday
+
+**Today's Progress:** Today I worked with Spring and Angular and I have finished my project
+
+**Toughts:** What will be next? :relieved:
+
+**Links to work:**
+
+[Clients and bills Spring API](https://github.com/luisdev97/Clients-CRUD-Spring-Backend)
+
+[Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
 
 
 
