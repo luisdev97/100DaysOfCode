@@ -123,6 +123,9 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 **Today's Progress:** Today I trained typescript at exercism.io
 
 
+#### Day 14 February 6. Thursday
+**Today's Progress:** Today I continued training typescript at exercism.io and start with a basic design for a web project with companions
+
 
 
 
