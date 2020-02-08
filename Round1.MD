@@ -127,8 +127,11 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 **Today's Progress:** Today I continued training TypeScript at exercism.io and start with a basic design for a web project with companions
 
 #### Day 15: February 7. Friday
-**Today's Progress:** today I continue with the design of the web project, I created the cards to present the products and I was testing the Utility Types of TypeScript
+**Today's Progress:** Today I continue with the design of the web project, I created the cards to present the products and I was testing the Utility Types of TypeScript
 
+
+#### Day 16: February 8. Saturday
+**Today's Progress:** Today I continue with the design of the web project and I created animations in CSS and vanilla JavaScript
 
 
 
