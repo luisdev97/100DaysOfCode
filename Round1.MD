@@ -133,6 +133,11 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 #### Day 16: February 8. Saturday
 **Today's Progress:** Today I continue with the design of the web project and I created animations in CSS and vanilla JavaScript
 
+#### Day 17: February 9. Sunday
+**Today's Progress:** Today I start with a new project: A pokedex with React and TypeScript and I have seen material about SCRUM to start working with the agile methodologys
+
+**Link to work:** [Pokedex](https://github.com/luisdev97/React-TS-Pokedex)
+
 
 
 
