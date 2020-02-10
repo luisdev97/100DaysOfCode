@@ -139,6 +139,14 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 **Link to work:** [Pokedex](https://github.com/luisdev97/React-TS-Pokedex)
 
 
+#### Day 18: February 10. Monday
+**Today's Progress:** 
+Today I was mapping the buttons of my new application into an image and planning the development stage for the first iteration.
+I was also testing some design pattern with Typescript
+
+**Toughts:** On fire with my new project!! :blush: :blush:
+
+
 
 
 
