@@ -147,6 +147,11 @@ I was also testing some design pattern with Typescript
 **Toughts:** On fire with my new project!! :blush: :blush:
 
 
+#### Day 19: February 11. Tuesday
+**Today's Progress:** Today I did not have time to do much and it was a very unproductive day, most of the time I spent dealing with incidents
+
+
+
 
 
 
