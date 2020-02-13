@@ -154,7 +154,17 @@ I was also testing some design pattern with Typescript
 
 #### Day 20: February 12. Wednesday
 **Today's Progress:** Today I was able to move forward a lot with the project and I managed to learn a lot about Git and Typescript with React
+
 **Thoughts:** I should have more productive days like today
+
+**Link to work:** [Pokedex](https://github.com/luisdev97/React-TS-Pokedex)
+
+
+
+#### Day 21: February 13. Thursday
+**Today's Progress:** Today I was able to solve the incidents with the different branches of the project and I added several styles and functionality
+
+**Thoughts:** It is already the second consecutive day obtaining great results
 
 **Link to work:** [Pokedex](https://github.com/luisdev97/React-TS-Pokedex)
 
