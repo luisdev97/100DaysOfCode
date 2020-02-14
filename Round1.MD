@@ -169,6 +169,12 @@ I was also testing some design pattern with Typescript
 **Link to work:** [Pokedex](https://github.com/luisdev97/React-TS-Pokedex)
 
 
+#### Day 22: February 14. Friday
+**Today's Progress:** Today I added some basic functionality related to audio
+
+**Link to work:** [Pokedex](https://github.com/luisdev97/React-TS-Pokedex)
+
+
 
 
 
