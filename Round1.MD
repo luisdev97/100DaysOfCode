@@ -177,5 +177,9 @@ I was also testing some design pattern with Typescript
 
 
 
+#### Day 23: February 15. Friday
+**Today's Progress:** Today I was working with rxjs with vanilla js 
+
+
 
 
