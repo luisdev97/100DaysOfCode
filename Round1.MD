@@ -181,5 +181,11 @@ I was also testing some design pattern with Typescript
 **Today's Progress:** Today I was working with rxjs with vanilla js 
 
 
+#### Day 24: February 16. Sunday
+**Today's Progress:** Today I had to dedicate all day to the design of a project and I could not continue with my personal project
+
+#### Day 25: February 17. Monday
+**Today's Progress:** I continue to work in web design
+
 
 
