@@ -187,5 +187,12 @@ I was also testing some design pattern with Typescript
 #### Day 25: February 17. Monday
 **Today's Progress:** I continue to work in web design
 
+#### Day 26: February 18. Tuesday
+**Today's Progress:** I continue to work in web design
+
+**Thoughts:** Until Thursday I will not finish with this project to continue developing my pokedex :(
+
+
+
 
 
