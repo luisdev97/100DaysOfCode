@@ -198,6 +198,12 @@ I was also testing some design pattern with Typescript
 
 **Thoughts:** Just one more day to finish this :blush:
 
+#### Day 28: February 20. Thursday
+
+**Today's Progress:** Today I have been all day with the last section of the project and tomorrow we will finally deliver it
+
+
+
 
 
 
