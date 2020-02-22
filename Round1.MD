@@ -194,7 +194,7 @@ I was also testing some design pattern with Typescript
 
 
 #### Day 27: February 19. Wednesday
-**Today's Progress:** Today we have finalized the last details of a section of the web, tomorrow is the last day and we will have to polish some parts, today I have also attended a React.js meetup and I have met future coworkers
+**Today's Progress:** Today we have finalized the last details of a section of the web, tomorrow is the last day and we will have to polish some parts, today I have also attended a React.js meetup and I have met future coworkers.
 
 **Thoughts:** Just one more day to finish this :blush:
 
