@@ -203,9 +203,19 @@ I was also testing some design pattern with Typescript
 **Today's Progress:** Today I have been all day with the last section of the project and tomorrow we will finally deliver it
 
 
-#### Day 28: February 20. Thursday
+#### Day 29 February 21. Thursday
 
 **Today's Progress:** Today my team and I have presented our design project for the classroom. Also, I did some exercises at exercism.io
+
+
+
+#### Day 29 February 21. Thursday
+
+**Today's Progress:** Today I tried an api for speech synthesis and tried to install Arch linux with some problems but I learned a lot
+
+
+
+
 
 
 
