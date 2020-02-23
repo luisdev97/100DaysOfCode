@@ -203,18 +203,22 @@ I was also testing some design pattern with Typescript
 **Today's Progress:** Today I have been all day with the last section of the project and tomorrow we will finally deliver it
 
 
-#### Day 29 February 21. Thursday
+#### Day 29 February 21. Friday
 
 **Today's Progress:** Today my team and I have presented our design project for the classroom. Also, I did some exercises at exercism.io
 
 
 
-#### Day 29 February 21. Thursday
+#### Day 30 February 22. Saturday
 
 **Today's Progress:** Today I tried an api for speech synthesis and tried to install Arch linux with some problems but I learned a lot
 
 
+#### Day 31 February 23. Sunday
 
+**Today's Progress:** Today I worked with RxJS, particularly with hot observers and Subject Observable, RxJS Subject is a special type of Observable that allows values to be multicasted to many Observers.
+
+**Link to doc:** [RxJS Subject](https://rxjs-dev.firebaseapp.com/guide/subject)
 
 
 
