@@ -221,6 +221,12 @@ I was also testing some design pattern with Typescript
 **Link to doc:** [RxJS Subject](https://rxjs-dev.firebaseapp.com/guide/subject)
 
 
+#### Day 32 February 24. Monday
+
+**Today's Progress:** Today I have been creating a script in js that examines html documents and extracts information from specific nodes to save it in a txt
+
+
+
 
 
 
