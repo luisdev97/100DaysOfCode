@@ -226,6 +226,15 @@ I was also testing some design pattern with Typescript
 **Today's Progress:** Today I have been creating a script in js that examines html documents and extracts information from specific nodes to save it in a txt
 
 
+#### Day 33 February 25. Tuesday
+
+**Today's Progress:** Today continue practicing with basic examples of rxjs, I also began to see the basics of ngrx
+
+**Link to doc:** [NgRx get started](https://ngrx.io/guide/store)
+
+
+
+
 
 
 
