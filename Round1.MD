@@ -234,6 +234,15 @@ I was also testing some design pattern with Typescript
 
 
 
+#### Day 34 February 26. Wednesday
+
+**Today's Progress:** Today among other things I created a basic version of the node server that I will use to run my script
+
+**Link to repo:** [Node Server to extract info from HTML nodes](https://github.com/luisdev97/Extract-DOMnodes-Info)
+
+
+
+
 
 
 
