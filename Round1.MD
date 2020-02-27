@@ -241,6 +241,12 @@ I was also testing some design pattern with Typescript
 **Link to repo:** [Node Server to extract info from HTML nodes](https://github.com/luisdev97/Extract-DOMnodes-Info)
 
 
+#### Day 35 February 27. Thursday
+
+**Today's Progress:** Today I modified my script and almost finished it, I need to apply recursion to solve a small problem and soon I can continue with the pokedex
+
+
+
 
 
 
