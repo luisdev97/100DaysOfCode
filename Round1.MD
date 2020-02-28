@@ -246,6 +246,10 @@ I was also testing some design pattern with Typescript
 **Today's Progress:** Today I modified my script and almost finished it, I need to apply recursion to solve a small problem and soon I can continue with the pokedex
 
 
+#### Day 36 February 28. Friday
+
+**Today's Progress:** Today I didn't have much time to program so I spent some time doing TypeScript exercises in exercism.io
+
 
 
 
