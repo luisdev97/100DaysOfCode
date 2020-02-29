@@ -251,7 +251,7 @@ I was also testing some design pattern with Typescript
 **Today's Progress:** Today I didn't have much time to program so I spent some time doing TypeScript exercises in exercism.io
 
 
-#### Day 37 February 29. Friday
+#### Day 37 February 29. Saturday
 
 **Today's Progress:** Today I was reviewing the basics of Angular since I started my training in practices within a week and we will use angular in the front
 
