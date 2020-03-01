@@ -256,6 +256,15 @@ I was also testing some design pattern with Typescript
 **Today's Progress:** Today I was reviewing the basics of Angular since I started my training in practices within a week and we will use angular in the front
 
 
+#### Day 38 March 1. Sunday
+
+**Today's Progress:** 
+
+
+
+
+
+
 
 
 
