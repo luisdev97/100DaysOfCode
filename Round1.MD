@@ -258,7 +258,8 @@ I was also testing some design pattern with Typescript
 
 #### Day 38 March 1. Sunday
 
-**Today's Progress:** 
+**Today's Progress:** Today I could almost finish my server to collect the data that I will later use in my pokedex, I just need to solve a problem with asynchrony when saving the data in a json file
+
 
 
 
