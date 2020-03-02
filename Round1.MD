@@ -12,7 +12,6 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 
 
 
-
 #### Day 2: January 25. Saturday
 
 **Today's Progress:** Today I worked with Angular and I saw the the jsconf talk:
@@ -35,6 +34,7 @@ Immutable data structures for functional JS
 **Link to work:** [Clients and bills Angular](https://github.com/luisdev97/Clients-CRUD-Angular-Front)
 
 **Link to article:** [Java 8 Stream findFirst() vs. findAny()](https://www.baeldung.com/java-stream-findfirst-vs-findany)
+
 
 #### Day 4: January 27. Monday
 **Today's Progress:** Today I trained typescript at exercism.io
@@ -126,12 +126,14 @@ https://github.com/luisdev97/Clients-CRUD-Angular-Front
 #### Day 14: February 6. Thursday
 **Today's Progress:** Today I continued training TypeScript at exercism.io and start with a basic design for a web project with companions
 
+
 #### Day 15: February 7. Friday
 **Today's Progress:** Today I continue with the design of the web project, I created the cards to present the products and I was testing the Utility Types of TypeScript
 
 
 #### Day 16: February 8. Saturday
 **Today's Progress:** Today I continue with the design of the web project and I created animations in CSS and vanilla JavaScript
+
 
 #### Day 17: February 9. Sunday
 **Today's Progress:** Today I start with a new project: A pokedex with React and TypeScript and I have seen material about SCRUM to start working with the agile methodologys
@@ -175,8 +177,6 @@ I was also testing some design pattern with Typescript
 **Link to work:** [Pokedex](https://github.com/luisdev97/React-TS-Pokedex)
 
 
-
-
 #### Day 23: February 15. Friday
 **Today's Progress:** Today I was working with rxjs with vanilla js 
 
@@ -184,8 +184,10 @@ I was also testing some design pattern with Typescript
 #### Day 24: February 16. Sunday
 **Today's Progress:** Today I had to dedicate all day to the design of a project and I could not continue with my personal project
 
+
 #### Day 25: February 17. Monday
 **Today's Progress:** I continue to work in web design
+
 
 #### Day 26: February 18. Tuesday
 **Today's Progress:** I continue to work in web design
@@ -206,7 +208,6 @@ I was also testing some design pattern with Typescript
 #### Day 29 February 21. Friday
 
 **Today's Progress:** Today my team and I have presented our design project for the classroom. Also, I did some exercises at exercism.io
-
 
 
 #### Day 30 February 22. Saturday
@@ -231,7 +232,6 @@ I was also testing some design pattern with Typescript
 **Today's Progress:** Today continue practicing with basic examples of rxjs, I also began to see the basics of ngrx
 
 **Link to doc:** [NgRx get started](https://ngrx.io/guide/store)
-
 
 
 #### Day 34 February 26. Wednesday
@@ -259,6 +259,13 @@ I was also testing some design pattern with Typescript
 #### Day 38 March 1. Sunday
 
 **Today's Progress:** Today I could almost finish my server to collect the data that I will later use in my pokedex, I just need to solve a problem with asynchrony when saving the data in a json file
+
+
+#### Day 39 March 2. Monday
+
+**Today's Progress:** Today I managed to finish the first version of my script to scrape data from the web and store data in a json, It is still slow but it is functional.
+
+**Thoughts:** Now that I'm done I can continue with the pokedex, although I hope someone improves my code and learn from its optimization
 
 
 
