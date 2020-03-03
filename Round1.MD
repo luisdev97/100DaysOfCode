@@ -268,6 +268,11 @@ I was also testing some design pattern with Typescript
 **Thoughts:** Now that I'm done I can continue with the pokedex, although I hope someone improves my code and learn from its optimization
 
 
+#### Day 40 March 3. Tuesday
+
+**Today's Progress:** Today I arrived very late home and spent some time practicing a little TypeScript in exercism.io and read a bit about functional programming
+
+
 
 
 
