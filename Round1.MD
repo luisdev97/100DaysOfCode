@@ -273,6 +273,14 @@ I was also testing some design pattern with Typescript
 **Today's Progress:** Today I arrived very late home and spent some time practicing a little TypeScript in exercism.io and read a bit about functional programming
 
 
+#### Day 41 March 4. Wednesday
+
+**Today's Progress:** Today I refactored my code to be able of incorporating a new service to work with IBM Clod API, wich can read text from a JSON file
+
+**Thoughts:** I've not reached a good way to incorporate it properly yet
+
+
+
 
 
 
