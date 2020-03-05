@@ -280,6 +280,14 @@ I was also testing some design pattern with Typescript
 **Thoughts:** I've not reached a good way to incorporate it properly yet
 
 
+#### Day 42 March 5. Thursday
+
+**Today's Progress:** Today I have had virtually no time so I have done very basic algorithm exercises and I have seen a lecture on angularity and reactivity
+
+**Link to talk:** [Data Composition with RxJS | Deborah Kurata](https://www.youtube.com/watch?v=Z76QlSpYcck)
+
+
+
 
 
 
