@@ -282,9 +282,17 @@ I was also testing some design pattern with Typescript
 
 #### Day 42 March 5. Thursday
 
-**Today's Progress:** Today I have had virtually no time so I have done very basic algorithm exercises and I have seen a lecture on angularity and reactivity
+**Today's Progress:** Today I have had virtually no time so I have done very basic algorithm exercises and I have seen a lecture on Angular and reactivity
 
 **Link to talk:** [Data Composition with RxJS | Deborah Kurata](https://www.youtube.com/watch?v=Z76QlSpYcck)
+
+
+#### Day 43 March 6. Friday
+
+**Today's Progress:** Today I received the news that instead of working with React instead of Angular in the workplace training, I have been reviewing concepts that I have not used for a long time to be more prepared
+
+
+
 
 
 
