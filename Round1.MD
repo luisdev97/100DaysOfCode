@@ -293,6 +293,13 @@ I was also testing some design pattern with Typescript
 
 
 
+#### Day 44 March 7. Saturday
+
+
+**Today's Progress:** Today was a hard day, I have encountered many problems with audio streaming that I could not solve, Another day things will be better
+
+
+
 
 
 
