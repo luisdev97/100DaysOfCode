@@ -300,6 +300,14 @@ I was also testing some design pattern with Typescript
 
 
 
+#### Day 46 March 9. Monday
+
+
+**Today's Progress:** Today I started my workplace training and since yesterday I have been reviewing concepts related to their work in order to be more prepared, tomorrow to fulfill my first assigned task
+
+
+
+
 
 
 
